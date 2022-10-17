@@ -1,4 +1,4 @@
-# Todo App
+# Quotes App
 
 
 ## Getting Started
