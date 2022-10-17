@@ -8,6 +8,7 @@
 <p>
 <img alt="Night Coding" width="300" src="https://github.com/MFaramawy/Quote-App/blob/master/assets/layout/Splash.png" align="center"/>
 </p>
+
 # Dark
 
 <p>
